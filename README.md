@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm xhamster199x 👋
+Machine Learning tooling expert.
 
-<!--
-**xhamster199x/xhamster199x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I have over 5 years of experience in developing tools for machine learning workflows. Based in Morocco, I focus on enhancing efficiency in data processing and analytics.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+- ⚙️ Python
+- 📊 Pandas
+- 🌐 Flask
+- 🗃️ SQL
+- 📦 Docker
+- 🚀 Apache Airflow
+- ☁️ AWS
+- 🧪 Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently
+I'm working on a project that optimizes data pipelines for local startups.
